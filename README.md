@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="version" src="https://img.shields.io/badge/version-2.15.0-2b4c8c">
+  <img alt="version" src="https://img.shields.io/badge/version-2.17.0-2b4c8c">
   <img alt="iPhone · Android · Windows · Mac" src="https://img.shields.io/badge/iPhone%20·%20Android%20·%20Windows%20·%20Mac-PWA-f2b92b">
   <img alt="offline" src="https://img.shields.io/badge/works-offline-1d5c4d">
   <img alt="no account" src="https://img.shields.io/badge/no%20account-no%20server-6b2d3c">
@@ -65,6 +65,8 @@ you, and your eyes never lose the line.
 - English or Arabic interface; a built-in guide and a short welcome for new readers.
 
 ## A real audiobook in four steps
+
+<p><a href="video/issho-audiobook-howto-en.mp4"><b>▶ Watch the how-to video (1:39)</b></a>: from an MP3 to listening with the narrator.</p>
 
 | | |
 |:-:|---|
